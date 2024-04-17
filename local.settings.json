@@ -1,0 +1,26 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "",
+    "WEBSITE_NODE_DEFAULT_VERSION":"~18",
+    "FUNCTIONS_WORKER_RUNTIME": "python",
+    "AZURE_OPENAI_ENDPOINT": "https://xxx.openai.azure.com/",
+    "AZURE_OPENAI_API_KEY": "xxx",
+    "AZURE_OPENAI_CHAT_DEPLOYMENT" : "gpt4-32k",
+    "AZURE_OPENAI_EMBEDDINGS_DEPLOYMENT" : "text-embedding-ada-002",
+    "AZURE_OPENAI_API_VERSION" : "2023-07-01-preview",
+    "AZURE_SEARCH_ENDPOINT": "https://xxx.search.windows.net",
+    "AZURE_SEARCH_API_KEY": "xxx",
+    "AZURE_SEARCH_INDEX": "products",
+    "AZURE_SPEECH_REGION": "westeurope",
+    "AZURE_SPEECH_API_KEY": "xxx",
+    "TEXT_ANALYTICS_ENDPOINT": "https://xxx.cognitiveservices.azure.com/",
+    "TEXT_ANALYTICS_KEY": "xxx",
+    "BLOB_SAS_URL": "xxx",
+    "SQL_DB_SERVER": "xxx.database.windows.net",
+    "SQL_DB_USER": "xxx",
+    "SQL_DB_PASSWORD": "xxx",
+    "SQL_DB_NAME": "xxx"
+  }
+}
+
